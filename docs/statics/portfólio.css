@@ -98,6 +98,12 @@ h1, h5 {
     font-family: "Rubik", sans-serif;
 }
 
+.copetencias {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
 .projetos {
     display: flex;
     flex-direction: column;
