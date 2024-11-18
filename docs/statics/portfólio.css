@@ -28,6 +28,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: center ;
     padding: 2%;
     background-color: #0E131F;
  }
@@ -117,11 +118,21 @@ h1, h4, h5 {
     gap: 20px;
 }
 
+.front_back {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25vw;
+    border: solid;
+    border-color: #832232;
+    border-radius: 1rem;
+}
+
 .icons {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 15%;
+    margin-top: 5%;
 }
 
 .icons > img {
